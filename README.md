@@ -2,9 +2,12 @@
 
 The objectives of this assignment are the following:
 
--- Implement an optimization method (gradient descent) that allows you to train logistic regression models.
+-- Implement an optimization method (gradient descent) that allows you to train logistic regression models. 
+
 -- Better understand the relationship between the optimization objective (cross-entropy error), training set error, and test set error, and how these relate to generalization.
+
 -- Understand the impact of parameters and design choices on the convergence and performance of the gradient descent algorithm and the learned models.
+
 -- Effectively communicate technical results in writing. 
 
 Detailed Description:
