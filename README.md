@@ -1,18 +1,20 @@
 # Predicting Heart-disease
 
+This project was part of assignments from the Data Mining course *(CS 584 - Spring '22)* at George Mason University.
+
 ## Files on the Repository
 
-  Dataset Folder -----> *contains the train, test and format of output files for the dataset.*
+  Dataset ----------------> *is a folder that contains the train, test and format of output files for the dataset.*
 
-  Graphs folder  ------> *consists of 3 graphs with Number of iterations Vs the Cost.*
+  Graphs  -----------------> *is a folder that consists of 3 graphs with Number of iterations Vs the Cost.*
 
-  GD Main.ipynb  -----> *is the main program in jupyter notebook.*
+  GD Main.ipynb  --------> *is the main program in jupyter notebook.*
+  
+  GD Report.pdf ---------> *is the submission file for the final report.*
 
-  GD.py ---------------> *is just the copy of whole program in python file.*
+  GD.py ------------------> *is just the copy of whole program in python file.*
 
-  HW2_IYAPPAN.zip --> *is the submission zip file for the homework.*
-
-  GD Report.pdf ------> *is the submission file for the final report.*
+  HW2_IYAPPAN.zip -----> *is the submission zip file for the homework.*
 
 ## Business Problem
 
