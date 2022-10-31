@@ -1,6 +1,7 @@
 # Predicting Heart-disease
 
-GD_Main.ipynb is the main program in jupyter notebook.
+GD Main.ipynb is the main program in jupyter notebook.
+
 GD.py is just the copy of whole program in python file.
 
 The objectives of this assignment are the following:
