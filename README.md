@@ -1,8 +1,18 @@
 # Predicting Heart-disease
 
-> GD Main.ipynb is the main program in jupyter notebook.
+## Files on the Repository
 
-> GD.py is just the copy of whole program in python file.
+  Dataset Folder -----> *contains the train, test and format of output files for the dataset.*
+
+  Graphs folder  ------> *consists of 3 graphs with Number of iterations Vs the Cost.*
+
+  GD Main.ipynb  -----> *is the main program in jupyter notebook.*
+
+  GD.py ---------------> *is just the copy of whole program in python file.*
+
+  HW2_IYAPPAN.zip --> *is the submission zip file for the homework.*
+
+  GD Report.pdf ------> *is the submission file for the final report.*
 
 ## Business Problem
 
