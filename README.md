@@ -1,5 +1,8 @@
 # Predicting Heart-disease
 
+GD_Main.ipynb is the main program in jupyter notebook.
+GD.py is just the copy of whole program in python file.
+
 The objectives of this assignment are the following:
 
 -- Implement an optimization method (gradient descent) that allows you to train logistic regression models. 
