@@ -1,4 +1,4 @@
-# Files on the repository
+# Files on the Folder
 
 cleaveland-format.csv --------> an example for the Output format.
 
