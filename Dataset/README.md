@@ -1,7 +1,7 @@
 # Files on the repository
 
-cleaveland-format.csv -------> an example for the Output format.
+cleaveland-format.csv --------> an example for the Output format.
 
-cleaveland-test.csv ---------> Test dataset.
+cleaveland-test.csv -----------> Test dataset.
 
 cleaveland-train.csv ----------> Train dataset
