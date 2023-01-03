@@ -1,7 +1,3 @@
-# Predicting Heart-disease
-
-This project was part of assignments from the Data Mining course *(CS 584 - Spring '22)* at George Mason University.
-
 ## Files on the Repository
 
   Dataset ----------------> *is a folder that contains the train, test and format of output files for the dataset.*
