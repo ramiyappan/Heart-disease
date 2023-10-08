@@ -1,16 +1,16 @@
 ## Files on the Repository
 
-  Dataset ----------------> *is a folder that contains the train, test and format of output files for the dataset.*
+  `Dataset` - *is a folder that contains the train, test and format of output files for the dataset.*
 
-  Graphs  -----------------> *is a folder that consists of 3 graphs with Number of iterations Vs the Cost.*
+  `Graphs`  - *is a folder that consists of 3 graphs with Number of iterations Vs the Cost.*
 
-  GD Main.ipynb  --------> *is the main program in jupyter notebook.*
+  `GD Main.ipynb`  - *is the main program in jupyter notebook.*
   
-  GD Report.pdf ---------> *is the submission file for the final report.*
+  `GD Report.pdf` - *is the submission file for the final report.*
 
-  GD.py ------------------> *is just the copy of whole program in python file.*
+  `GD.py` - *is just the copy of whole program in python file.*
 
-  HW2_IYAPPAN.zip -----> *is the submission zip file for the homework.*
+  `HW2_IYAPPAN.zip` - *is the submission zip file for the homework.*
 
 ## Business Problem
 
@@ -30,6 +30,12 @@ Train and test the model on the *Cleveland* dataset.
 > learn more about dataset here: https://archive.ics.uci.edu/ml/datasets/Heart+Disease
 
 ## Detailed Description
+
+- [Task 1](#the-model)
+- [Task 2](#experiments)
+- [Task 3](#report-technical-results)
+- [Task 4](#compare-with-existing-librarys-model)
+- [Task 5](#experiment-with-scaling-features)
 
 ### Task-1: The Model
 
