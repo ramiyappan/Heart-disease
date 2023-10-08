@@ -31,11 +31,11 @@ Train and test the model on the *Cleveland* dataset.
 
 ## Detailed Description
 
-- [Task 1](#the-model)
-- [Task 2](#experiments)
-- [Task 3](#report-technical-results)
-- [Task 4](#compare-with-existing-librarys-model)
-- [Task 5](#experiment-with-scaling-features)
+- [Task 1](#task-1-the-model)
+- [Task 2](#task-2-experiments)
+- [Task 3](#task-3-report-technical-results)
+- [Task 4](#task-4-compare-with-existing-librarys-model)
+- [Task 5](#task-5-experiment-with-scaling-features)
 
 ### Task-1: The Model
 
