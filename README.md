@@ -5,8 +5,6 @@
   `Graphs`  - *is a folder that consists of 3 graphs with Number of iterations Vs the Cost.*
 
   `GD Main.ipynb`  - *is the main program in jupyter notebook.*
-  
-  `GD Report.pdf` - *is the submission file for the final report.*
 
   `GD.py` - *is just the copy of whole program in python file.*
 
