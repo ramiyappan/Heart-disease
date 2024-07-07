@@ -8,8 +8,6 @@
 
   `GD.py` - *is just the copy of whole program in python file.*
 
-  `HW2_IYAPPAN.zip` - *is the submission zip file for the homework.*
-
 ## Business Problem
 
 To predict whether a patient has heart disease or not by analyzing various features (BP, BodyFat, etc.,) using a Machine learning approach *(Logistic Regression using Gradient Descent in this case)*.
